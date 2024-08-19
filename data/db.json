@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "id": "1",
-      "usuario": "John Doe",
+      "id": 1,
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -14,6 +14,14 @@
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
       "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
@@ -158,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "",
-      "superhero": "Chapulin",
-      "publisher": "DC Comics",
-      "alter_ego": "Chespirito",
-      "first_appareance": "Chavo del 8",
-      "characters": "Gomez",
-      "alt_img": "https://i.etsystatic.com/22329321/r/il/f0f6cd/3348447572/il_570xN.3348447572_fzrs.jpg"
     }
   ]
 }
